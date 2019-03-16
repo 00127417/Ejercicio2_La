@@ -35,7 +35,7 @@
     <ImageView
         android:layout_width="@dimen/lado_image"
         android:layout_height="@dimen/lado_image"
-        android:src="@drawable/image3"
+        android:src="@drawable/image4"
         android:id="@+id/image4"
         app:layout_column="0"
         app:layout_row="1" />
@@ -43,7 +43,7 @@
     <ImageView
         android:layout_width="@dimen/lado_image"
         android:layout_height="@dimen/lado_image"
-        android:src="@drawable/image1"
+        android:src="@drawable/image5"
         android:id="@+id/image5"
         app:layout_column="1"
         app:layout_row="1" />
@@ -51,7 +51,7 @@
     <ImageView
         android:layout_width="@dimen/lado_image"
         android:layout_height="@dimen/lado_image"
-        android:src="@drawable/image2"
+        android:src="@drawable/image6"
         android:id="@+id/image6"
         app:layout_column="2"
         app:layout_row="1" />
@@ -59,7 +59,7 @@
     <ImageView
         android:layout_width="@dimen/lado_image"
         android:layout_height="@dimen/lado_image"
-        android:src="@drawable/image2"
+        android:src="@drawable/image7"
         android:id="@+id/image7"
         app:layout_column="0"
         app:layout_row="2" />
@@ -67,7 +67,7 @@
     <ImageView
         android:layout_width="@dimen/lado_image"
         android:layout_height="@dimen/lado_image"
-        android:src="@drawable/image3"
+        android:src="@drawable/image8"
         android:id="@+id/image8"
         app:layout_column="1"
         app:layout_row="2" />
@@ -75,7 +75,7 @@
     <ImageView
         android:layout_width="@dimen/lado_image"
         android:layout_height="@dimen/lado_image"
-        android:src="@drawable/image1"
+        android:src="@drawable/image9"
         android:id="@+id/image9"
         app:layout_column="2"
         app:layout_row="2" />
